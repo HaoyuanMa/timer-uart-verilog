@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sim_1/new/testbench.v,1600884399,verilog,,,,testbench,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/buffer.v,1600883162,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sim_1/new/testbench.v,,buffer,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/diver.v,1600870725,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/light_show.v,,diver,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/light_show.v,1600867413,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/recv.v,,light_show,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/recv.v,1600872853,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/send.v,,recv,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/send.v,1600867416,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/timer.v,,uart_send,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/timer.v,1600870819,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/top.v,,timer,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/top.v,1600868361,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/uart.v,,top,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sources_1/new/uart.v,1600872560,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/uart/uart.srcs/sim_1/new/testbench.v,,uart,,,,,,,,
